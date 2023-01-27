@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.calendar {
+  border: 1px solid grey;
+  box-shadow: 10px 10px lightgrey;
+  margin: auto;
+  padding: 2em;
+  width: 25%;
+}
+
+.day-of-week {
+  color: yellowgreen;
+  font-size: 2em;
+}
+
+.day-of-month {
+  color: red;
+  font-size: 10em;
+  letter-spacing: 0.1em;
+}
+
+.previous, .next {
+
+  display: inline-block;
+  background-color: #grey;
+  font-size: 0.3em;
+  padding: 0.5em;
+  margin: 0 2em 0 2em;
+  width: 5em;
+  color: #yellowgreen;
+  text-align: center;
+}
