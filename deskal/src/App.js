@@ -5,7 +5,7 @@ import DeskCalendar from './DeskCalendar';
 function App() {
   return (
     <div className="App">
-      <DeskCalendar />
+      <DeskCalendar id="cal" />
     </div>
   );
 }
