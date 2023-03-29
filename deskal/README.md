@@ -1,5 +1,7 @@
 # Desk Calendar Component
 
+Simple React component to demonstrate component testing with Cypress. Source is in src folder and tests are in cypress\components folder.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
